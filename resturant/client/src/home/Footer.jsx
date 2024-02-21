@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Footer = () => {
   return (
     <>
-  <div className="container my-5 ">
+  <div className="container my-5 " style={{width:'3000px',margin:'0px',marginBottom:'0px'}}>
       <footer className="bg-dark text-center text-lg-start text-white">
         {/* Grid container */}
         <div className="container p-4">
