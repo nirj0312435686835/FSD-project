@@ -20,7 +20,7 @@ const Surat = () => {
         details: "Oven Magick is a renowned bakery in Surat known for its delicious cakes, pastries, and other baked goods. With a wide variety of sweet treats and savory snacks, Oven Magick is a favorite spot for cake lovers and pastry enthusiasts."
     },
     {
-        title: "Lavish Greens",
+        title: "Lavish Green",
         image: "https://5.imimg.com/data5/SELLER/Default/2022/12/AF/ZX/XF/14177800/fast-food-restaurant-interior-designer.jpg",
         details: "Lavish Greens is a vegetarian restaurant in Surat that offers a wide range of flavorful dishes made from fresh and locally sourced ingredients. With a focus on healthy eating and sustainability, Lavish Greens provides a guilt-free dining experience."
     },
