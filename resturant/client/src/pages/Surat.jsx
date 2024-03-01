@@ -15,7 +15,7 @@ const Surat = () => {
         details: "Black Pepper is a popular fine dining restaurant in Surat known for its elegant ambiance and exquisite cuisine. With a menu featuring a fusion of Indian and international dishes, Black Pepper promises a memorable dining experience for food enthusiasts."
     },
     {
-        title: "Oven Magick",
+        title: "Oven Magick kitchen",
         image: "https://assets.gqindia.com/photos/62a9d4653e8cdc9b632eb2ad/4:3/w_1440,h_1080,c_limit/10%20restaurants%20in%20Mumbai%20that%20offer%20the%20best%20sunset%20views.jpg",
         details: "Oven Magick is a renowned bakery in Surat known for its delicious cakes, pastries, and other baked goods. With a wide variety of sweet treats and savory snacks, Oven Magick is a favorite spot for cake lovers and pastry enthusiasts."
     },
